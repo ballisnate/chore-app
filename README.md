@@ -1,2 +1,2 @@
 # chore-app
-Ann app to make tracking chores easier
+An app to make tracking chores easier
